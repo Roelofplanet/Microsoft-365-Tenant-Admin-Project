@@ -15,7 +15,7 @@ The screenshots show the configuration and structure of the environment.
 ## Images
 
 #### Microsoft 365 Admin Center Groups
-![MS365 Admin Center Groups](MS365 Admin Center Groups.png)
+![admin_groups](admin_groups.png)
 
 #### Microsoft 365 Admin Center Users
 ![Admin center users](MS365 Admin Center Users.png)
