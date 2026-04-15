@@ -11,3 +11,17 @@ This project demonstrates my understanding of:
 - Basic Microsoft 365 administration
 
 The screenshots show the configuration and structure of the environment.
+
+## Images
+
+#### Microsoft 365 Admin Center Groups
+![Admin center groups](MS365 Admin Center Groups.png)
+
+#### Microsoft 365 Admin Center Users
+![Admin center users](MS365 Admin Center Users.png)
+
+#### Teams Admin Center
+![Teams admin center](Teams Admin Center.png)
+
+#### Teams Members
+![Teams memebers](Teams Members.png)
