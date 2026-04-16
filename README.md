@@ -25,3 +25,21 @@ The screenshots show the configuration and structure of the environment.
 
 #### Microsoft Entra Licenses
 ![entra_licenses](entra_licenses.png)
+
+#### Teams Admin Center
+![teams_admin](teams_admin.png)
+
+#### Teams Members IT Team
+![teams_members](teams_members_it.png)
+
+#### Teams Channels IT Team
+![teams_channels](teams_channels_it.png)
+
+#### Sharepoint Admin Center
+![sharepoint_admin](sharepoint_admin.png)
+
+#### Sharepoint Site IT Team
+![sharepoint_site](sharepoint_site_it.png)
+
+#### Exchange Admin Center
+![exchange_admin](exchange_admin.png)
