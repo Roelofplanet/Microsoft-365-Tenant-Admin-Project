@@ -18,10 +18,10 @@ The screenshots show the configuration and structure of the environment.
 ![admin_groups](admin_groups.png)
 
 #### Microsoft 365 Admin Center Users
-![Admin center users](MS365 Admin Center Users.png)
+![admin_users](admin_users.png)
 
-#### Teams Admin Center
-![Teams admin center](Teams Admin Center.png)
+#### Microsoft Entra Security Groups
+![entra_security](entra_security_groups.png)
 
-#### Teams Members
-![Teams memebers](Teams Members.png)
+#### Microsoft Entra Licenses
+![entra_licenses](entra_licenses.png)
