@@ -44,6 +44,18 @@ The screenshots show the configuration and structure of the environment.
 #### Exchange Admin Center
 ![exchange_admin](exchange_admin.png)
 
-### Shared Mailbox
+#### Shared Mailbox
 <img width="1920" height="1200" alt="shared_mailbox" src="https://github.com/user-attachments/assets/d1ae1f69-f29a-47ea-a0e6-2d06164984f1" />
+
+#### Test Shared Mailbox info@roeloftech.onmicrosoft.com
+<img width="1920" height="1200" alt="test_shared_mailbox" src="https://github.com/user-attachments/assets/0afe33ae-705c-49f5-9fce-24f134457894" />
+
+#### Multifactor Authentication (MFA) Testuser Bob
+<img width="1920" height="1200" alt="mfa" src="https://github.com/user-attachments/assets/4cbea2d5-40ad-40f3-b850-bd11235f2d16" />
+
+#### Password reset testuser Bob
+<img width="1920" height="1152" alt="password_reset" src="https://github.com/user-attachments/assets/4f5288a2-e4b4-47a9-8da0-651c5de90688" />
+
+
+
 
