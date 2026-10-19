@@ -9,6 +9,8 @@ This project demonstrates my understanding of:
 - License assignment
 - Group and team configuration
 - Basic Microsoft 365 administration
+- Multifactor Authentication (MFA)
+- Password reset
 
 The screenshots show the configuration and structure of the environment.
 
