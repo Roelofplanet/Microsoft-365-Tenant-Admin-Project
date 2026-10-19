@@ -5,10 +5,11 @@ In this project, I set up a Microsoft 365 demo environment to practice basic adm
 I created and managed users, assigned licenses, and configured different departments such as HR, IT, Sales, and Management. These departments were organized using Microsoft 365 groups and connected to Microsoft Teams, Sharepoint and Exchange.
 
 This project demonstrates my understanding of:
-- User management
+- Entra ID Users and Groups
 - License assignment
 - Group and team configuration
-- Basic Microsoft 365 administration
+- Sharepoint Site
+- Shared Mailbox
 - Multifactor Authentication (MFA)
 - Password reset
 
