@@ -43,3 +43,7 @@ The screenshots show the configuration and structure of the environment.
 
 #### Exchange Admin Center
 ![exchange_admin](exchange_admin.png)
+
+### Shared Mailbox
+<img width="1920" height="1200" alt="shared_mailbox" src="https://github.com/user-attachments/assets/d1ae1f69-f29a-47ea-a0e6-2d06164984f1" />
+
