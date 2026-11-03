@@ -60,6 +60,9 @@ The screenshots show the configuration and structure of the environment.
 #### Password reset testuser Bob
 <img width="1920" height="1152" alt="password_reset" src="https://github.com/user-attachments/assets/4f5288a2-e4b4-47a9-8da0-651c5de90688" />
 
+#### Windows client device regestration in Intune
+<img width="1920" height="1152" alt="device_register" src="https://github.com/user-attachments/assets/5be70391-3adc-4e4b-86c4-11dfe84efeeb" />
+
 
 
 
