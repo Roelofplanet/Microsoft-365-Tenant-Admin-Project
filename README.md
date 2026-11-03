@@ -12,7 +12,7 @@ This project demonstrates my understanding of:
 - Shared Mailbox
 - Multifactor Authentication (MFA)
 - Password reset
-- Device Registration
+- Intune Device Registration
 
 The screenshots show the configuration and structure of the environment.
 
